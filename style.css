@@ -3,6 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400..700&display=swap');
 
 :root{
-    --fonte-titulo:'Bebas Neue'
-    --fonte-texto: 'Dancing Script'
+    --fonte-titulo:'Bebas Neue';
+    --fonte-texto: 'Dancing Script';
 }
